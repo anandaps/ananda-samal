@@ -114,3 +114,6 @@ bq init
 # use wget to download this script
 wget https://gist.github.com/raw/4466298/8f842e248db27c336f8726116943afaf17d29ffb/mysql_to_big_query.sh
 
+# this is the end
+
+
